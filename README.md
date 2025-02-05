@@ -41,16 +41,16 @@
 
 ## Project Insight
 -BUSIEST DAYS & MONTHS:
- - IN DAYS Orders are Highest on weekends,
- - IN MONTHS orders from July and Jan are high.
+- IN DAYS Orders are Highest on weekends,
+- IN MONTHS orders from July and Jan are high.
 -SALES PERFORMANCE:
- - Classic Category pizzas contribute to maximum sales & total orders.
- - LARGE SIZE PIZZAS contributes to maximum sales.
+- Classic Category pizzas contribute to maximum sales & total orders.
+- LARGE SIZE PIZZAS contributes to maximum sales.
 -BEST SELLER PIZZA:
- -The Thai Chicken Pizza Contributes Max. Revenue
- -The Classic Deluxe Pizza Contributes to max. Quantities & Total Orders
+-The Thai Chicken Pizza Contributes Max. Revenue
+-The Classic Deluxe Pizza Contributes to max. Quantities & Total Orders
 -WORST SELLER PIZZA:
- -The Brie Carre Pizza Contributes Miniumun Revenue, Quantities & TOTAL ORDERS
+-The Brie Carre Pizza Contributes Miniumun Revenue, Quantities & TOTAL ORDERS
 
 
 
