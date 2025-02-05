@@ -49,11 +49,11 @@
 - LARGE SIZE PIZZAS contributes to maximum sales.
   
 -BEST SELLER PIZZA:
--The Thai Chicken Pizza Contributes Max. Revenue
--The Classic Deluxe Pizza Contributes to max. Quantities & Total Orders
+- The Thai Chicken Pizza Contributes Max. Revenue
+- The Classic Deluxe Pizza Contributes to max. Quantities & Total Orders
 
 -WORST SELLER PIZZA:
--The Brie Carre Pizza Contributes Miniumun Revenue, Quantities & TOTAL ORDERS
+- The Brie Carre Pizza Contributes Miniumun Revenue, Quantities & TOTAL ORDERS
 
 
 
