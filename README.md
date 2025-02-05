@@ -40,19 +40,19 @@
 ![Screenshot (495)](https://github.com/swamyviswanadh/PowerBi/blob/main/BEST%20WORST%20PBi%20REPORT%20PIZZA%20SALES%20PAGE%202.png)
 
 ## Project Insight
--BUSIEST DAYS & MONTHS:
+- BUSIEST DAYS & MONTHS:
 - IN DAYS Orders are Highest on weekends,
 - IN MONTHS orders from July and Jan are high.
 
--SALES PERFORMANCE:
+- SALES PERFORMANCE:
 - Classic Category pizzas contribute to maximum sales & total orders.
 - LARGE SIZE PIZZAS contributes to maximum sales.
   
--BEST SELLER PIZZA:
+- BEST SELLER PIZZA:
 - The Thai Chicken Pizza Contributes Max. Revenue
 - The Classic Deluxe Pizza Contributes to max. Quantities & Total Orders
 
--WORST SELLER PIZZA:
+- WORST SELLER PIZZA:
 - The Brie Carre Pizza Contributes Miniumun Revenue, Quantities & TOTAL ORDERS
 
 
